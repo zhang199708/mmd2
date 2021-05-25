@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b133b2ea-8e64-4270-aca2-82aa997be754" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="bd1a57f7-a641-4d16-994d-e82aa0d28e41" />
+  <component name="ProjectId" id="1rW0sOQkswEKkDEsR3hkw62Wnk0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mmdetection2.0_tutorials\mmdetection2.0" />
+      <recent name="D:\mmdetection2.0_tutorials\mmdetection2.0\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mmdetection2.0_tutorials\mmdetection2.0\demo" />
+      <recent name="D:\mmdetection2.0_tutorials\Fabric2COCO" />
+      <recent name="D:\mmdetection2.0_tutorials\mmdetection2.0\checkpoints" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.cascade_pretrained">
+    <configuration name="cascade_pretrained" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmdetection2.0_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mmdetection2.0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mmdetection2.0/cascade_pretrained.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cascade_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmdetection2.0_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mmdetection2.0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mmdetection2.0/cascade_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="change (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmdetection2.0_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mmdetection2.0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mmdetection2.0/change.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="change" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmdetection2.0_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\mmdetection2.0_tutorials\mmdetection2.0\change.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmdetection2.0_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fabric2COCO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fabric2COCO/trans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cascade_pretrained" />
+        <item itemvalue="Python.change (1)" />
+        <item itemvalue="Python.cascade_test" />
+        <item itemvalue="Python.change" />
+        <item itemvalue="Python.trans" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b133b2ea-8e64-4270-aca2-82aa997be754" name="Default Changelist" comment="" />
+      <created>1619076744968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619076744968</updated>
+      <workItem from="1619076747149" duration="116000" />
+      <workItem from="1619080349522" duration="1866000" />
+      <workItem from="1619140859844" duration="957000" />
+      <workItem from="1619313656021" duration="1689000" />
+      <workItem from="1619355990691" duration="71000" />
+      <workItem from="1619399742786" duration="3218000" />
+      <workItem from="1619417590149" duration="1299000" />
+      <workItem from="1619419292114" duration="60000" />
+      <workItem from="1619424983156" duration="522000" />
+      <workItem from="1619425526012" duration="600000" />
+      <workItem from="1619428459951" duration="554000" />
+      <workItem from="1619485116256" duration="5823000" />
+      <workItem from="1619496441634" duration="11000" />
+      <workItem from="1619502648356" duration="6883000" />
+      <workItem from="1619509979030" duration="3750000" />
+      <workItem from="1619576785650" duration="7841000" />
+      <workItem from="1619657891027" duration="8348000" />
+      <workItem from="1619676367691" duration="1917000" />
+      <workItem from="1619683578559" duration="817000" />
+      <workItem from="1620291502648" duration="1337000" />
+      <workItem from="1620350906539" duration="2184000" />
+      <workItem from="1620464212599" duration="1471000" />
+      <workItem from="1620608928829" duration="2259000" />
+      <workItem from="1620615728274" duration="7067000" />
+      <workItem from="1620695734682" duration="13736000" />
+      <workItem from="1620889508199" duration="3668000" />
+      <workItem from="1621301287796" duration="600000" />
+      <workItem from="1621500003709" duration="456000" />
+      <workItem from="1621838236428" duration="453000" />
+      <workItem from="1621839417327" duration="1535000" />
+      <workItem from="1621906699006" duration="2431000" />
+      <workItem from="1621927623725" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620649982964">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620649982964" />
+    <state x="2660" y="295" key="FileChooserDialogImpl" timestamp="1621838688521">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621838688521" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1620817600399">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620817600399" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1536.830/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619509828546" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1620817600399">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620817600399" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1536.830/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619509828546" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1620817600399">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620817600399" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1536.830/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619509828545" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1620817600399">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620817600399" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1536.830/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619509828546" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1620697344473">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620697344473" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1620697344473">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620697344473" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1620697344473">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620697344473" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1620697344473">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620697344473" />
+    <state x="2071" y="175" key="SettingsEditor" timestamp="1619683794546">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2071" y="175" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619683794546" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1619416114914">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619416114914" />
+    <state x="454" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1619424984670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1619424984670" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1619510030131">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.830/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619510030131" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mmdetection2.0/mmdet/apis/inference.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mmdetection2.0/cascade_pretrained.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mmdetection2.0/change.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mmdetection2_0_tutorials$change.coverage" NAME="change Coverage Results" MODIFIED="1619505538388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mmdetection2_0_tutorials$cascade_test.coverage" NAME="cascade_test Coverage Results" MODIFIED="1619401105379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmdetection2.0" />
+    <SUITE FILE_PATH="coverage/mmdetection2_0_tutorials$change__1_.coverage" NAME="change (1) Coverage Results" MODIFIED="1620697143097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmdetection2.0" />
+    <SUITE FILE_PATH="coverage/mmdetection2_0_tutorials$cascade_pretrained.coverage" NAME="cascade_pretrained Coverage Results" MODIFIED="1620697345955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmdetection2.0" />
+    <SUITE FILE_PATH="coverage/mmdetection2_0_tutorials$trans.coverage" NAME="trans Coverage Results" MODIFIED="1619487905497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabric2COCO" />
+  </component>
+</project>

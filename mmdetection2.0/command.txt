@@ -1,0 +1,33 @@
+#pytorch=1.3 
+#torchvision=0.4
+#mmdetection=2.0
+#VS2015
+
+conda create -n mmd2 python=3.7
+conda activate mmd2
+conda install pytorch=1.3 torchvision cudatoolkit=10.1
+pip install cython opencv-python pillow  matplotlib
+
+1���޸�D:\ProgramData\Anaconda3\envs\mmd2\Lib\site-packages\torch\utils\cpp_extension.py
+   185�У�match = re.search(r'(\d+)\.(\d+)\.(\d+)', compiler_info.decode("utf8","ignore").strip())
+2��D:\ProgramData\Anaconda3\envs\mmd2\Lib\site-packages\torch\include\c10\util
+     �滻 flat_hash_map.h
+     D:\ProgramData\Anaconda3\envs\mmd2\Lib\site-packages\torch\include\c10\util
+     �滻 order_preserving_flat_hash_map.h
+3����װmmcv 
+   cd mmcv-0.5.8
+   pip install -e .
+4����װpycocotools
+   cd cocoapi/PythonAPI
+   python setup.py build_ext install
+5������mmdetection2.0
+   pip install -r requirements.txt
+6���޸�setup.py�ļ���CUDAExtension��extra_compile_args ��ش��룬����cxx�ģ�"-DMS_WIN64","-MD"
+7��python setup.py develop
+
+python demo/webcam_demo.py configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.py checkpoints/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
+python demo/image_demo.py demo/demo.jpg configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.py checkpoints/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
+
+
+
+python demo/image_demo.py demo/fabric04.jpg work_dirs/faster_rcnn_r50_fpn_1x_coco/faster_rcnn_r50_fpn_1x_coco.py work_dirs/faster_rcnn_r50_fpn_1x_coco/epoch_10.pth
